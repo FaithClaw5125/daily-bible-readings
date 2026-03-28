@@ -1,6 +1,6 @@
 # Daily USCCB Bible Readings — Email Script
 
-Fetches the daily Mass readings from [bible.usccb.org](https://bible.usccb.org) each morning and sends them to **sfaith5125@hotmail.com** as a nicely formatted email (both plain text and HTML).
+Fetches the daily Mass readings from [bible.usccb.org](https://bible.usccb.org) each morning and sends them to your configured recipient(s) as a nicely formatted email (both plain text and HTML).
 
 ---
 
@@ -38,7 +38,7 @@ cd ~/path/to/daily_readings
 python3 daily_readings.py
 ```
 
-You should see a preview of the readings and "✅ Email sent to sfaith5125@hotmail.com"
+You should see a preview of the readings and "✅ Email sent to [your recipient]"
 
 ---
 
