@@ -12,11 +12,11 @@
         <string>/Users/clawfaith/.openclaw/workspace/daily_readings/daily_readings.py</string>
     </array>
 
-    <!-- Run every day at 7:00 AM local time -->
+    <!-- Run every day at 5:00 AM local time -->
     <key>StartCalendarInterval</key>
     <dict>
         <key>Hour</key>
-        <integer>7</integer>
+        <integer>5</integer>
         <key>Minute</key>
         <integer>0</integer>
     </dict>
